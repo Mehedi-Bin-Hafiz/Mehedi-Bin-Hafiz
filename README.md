@@ -23,5 +23,3 @@ src="https://img.shields.io/github/followers/Mehedi-Bin-Hafiz?logo=github&style=
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Mehedi-Bin-Hafiz"><img src="https://github-readme-stats.vercel.app/api?username=Mehedi-Bin-Hafiz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mehedi-Bin-Hafiz's GitHub stats" /></a>
-
-<a href="https://github.com/Mehedi-Bin-Hafiz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Bin-Hafiz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
