@@ -7,8 +7,7 @@ Senior Machine Learning Engineer at Minerva Analytics Inc
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🤝  I'm open to collaborating on Artificial Intelligence Innovation
 
-<a href="https://www.github.com/Mehedi-Bin-Hafiz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mehedi-Bin-Hafiz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
