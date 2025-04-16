@@ -7,7 +7,7 @@ Senior Machine Learning Engineer at Minerva Analytics Inc
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🤝  I'm open to collaborating on Artificial Intelligence Innovation
 
-
+ 
 ### Skills
 
 <p align="left">
